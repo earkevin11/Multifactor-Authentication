@@ -1,4 +1,4 @@
-# Multifactor-Authentication-
+# Multifactor-Authentication
 
 What is the purpose of Azure Active Directory Multifactor Authentication?
 - MFA helps safeguard access to data and applications by acting as an <em> additional layer of protection. </em> Think defense in depth.
