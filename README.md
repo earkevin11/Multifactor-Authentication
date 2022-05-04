@@ -21,3 +21,6 @@ MFA Authentication Options
 <img src="https://user-images.githubusercontent.com/104326475/166756511-3414b355-1bf7-4867-80e9-19ba5de77f2c.png" height="70%" width="70%" alt="AZ Active Directory"/>
   
 <p/>
+
+
+# Deploying MFA to users
