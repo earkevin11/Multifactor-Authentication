@@ -42,4 +42,9 @@ Within <em> Service Settings </em>, a IT admins can:
 - - Federated users 
 - - List of IP Address subnets
 
+<p align="center">
+  
+<img src="https://user-images.githubusercontent.com/104326475/167274126-5ce63e0a-1c05-4d70-b6e3-666ca9f56954.png" height="70%" width="70%" alt="AZ Active Directory"/>
+  
+<p/>
 
