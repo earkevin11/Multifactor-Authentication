@@ -22,5 +22,24 @@ MFA Authentication Options
   
 <p/>
 
+What are the MFA statuses?
+- Enforced (After user has set up MFA)
+- Enabled
+- Disabled
 
 # Deploying MFA to users
+
+- Navigate to Users within the Azure AD > Per-User MFA 
+- Within Per-User MFA, you can see all the users defined within the AD.
+
+
+# MFA Settings
+
+Within <em> Service Settings </em>, a IT admins can:
+- enable "remember MFA on trusted device" for a number of days 
+- - When this setting is enabled, the user will not be prompted for MFA
+- Skip MFA for
+- - Federated users 
+- - List of IP Address subnets
+
+
