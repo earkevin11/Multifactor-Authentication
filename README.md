@@ -13,7 +13,7 @@
 # MFA Authentication Options
 - Call to phone
 - Text message to phone
-- Notifications through mobile app
+- Push notifications through mobile app
 - Verification code from mobile app
 
 <p align="center">
